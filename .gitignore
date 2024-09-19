@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+.env
+
+# IDEs
+.vscode/
+.idea/
+
+# Project-specific
+output_documents/
+input_documents/
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
