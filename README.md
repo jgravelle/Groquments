@@ -1,4 +1,5 @@
 # Groquments
+![image](https://github.com/user-attachments/assets/a7e50e52-b8e9-4198-a2b2-586f693e2316)
 
 Groquments is a simple demonstration project showcasing how easily PocketGroq can help developers integrate Groq's powerful AI capabilities into their Python projects. This project provides a basic implementation of an AI-powered document field mapping tool.
 
